@@ -1,0 +1,874 @@
+[
+  {
+    "id": "1",
+    "name": "Ravi Kumar",
+    "city": "Mumbai",
+    "occupation": "Software Engineer",
+    "risk_profile": "Aggressive",
+    "credit_score": 780,
+    "portfolio_value": 4500000,
+    "monthly_income": 150000,
+    "monthly_expenses": {
+      "essentials": 40000,
+      "discretionary": 25000,
+      "emi": 15000,
+      "detailed_bills": [
+        {
+          "name": "Electricity & Water",
+          "amount": 5000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Netflix Premium",
+          "amount": 800,
+          "category": "Subscription",
+          "essential": false
+        },
+        {
+          "name": "Zomato Pro",
+          "amount": 1500,
+          "category": "Dining",
+          "essential": false
+        },
+        {
+          "name": "Gym Membership",
+          "amount": 2500,
+          "category": "Health",
+          "essential": false
+        }
+      ]
+    },
+    "holdings": [
+      {
+        "name": "HDFC Flexi Cap Fund",
+        "type": "mutual_fund",
+        "value": 2500000,
+        "returns": 15.2
+      },
+      {
+        "name": "SBI Bluechip Fund",
+        "type": "etf",
+        "value": 1500000,
+        "returns": 12.4
+      },
+      {
+        "name": "ICICI Prudential Liquid",
+        "type": "bond",
+        "value": 500000,
+        "returns": 6.5
+      },
+      {
+        "name": "IDBI Flexi Cap SIP",
+        "type": "sip",
+        "value": 150000,
+        "returns": 12.5
+      },
+      {
+        "name": "Digital Gold 24K",
+        "type": "gold",
+        "value": 50000,
+        "returns": 8.0
+      }
+    ],
+    "goals": [
+      {
+        "goal_name": "Home Down Payment",
+        "target_amount": 2500000,
+        "current_amount": 1800000,
+        "target_year": 2027,
+        "priority": "High"
+      },
+      {
+        "goal_name": "Europe Trip",
+        "target_amount": 500000,
+        "current_amount": 200000,
+        "target_year": 2026,
+        "priority": "Medium"
+      }
+    ],
+    "spending_trend_6m": [
+      78000,
+      82000,
+      75000,
+      85000,
+      80000,
+      80000
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Priya Sharma",
+    "city": "Delhi",
+    "occupation": "Marketing Director",
+    "risk_profile": "Moderate",
+    "credit_score": 745,
+    "portfolio_value": 8500000,
+    "monthly_income": 220000,
+    "monthly_expenses": {
+      "essentials": 60000,
+      "discretionary": 40000,
+      "emi": 45000,
+      "detailed_bills": [
+        {
+          "name": "Electricity & Water",
+          "amount": 5000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Netflix Premium",
+          "amount": 800,
+          "category": "Subscription",
+          "essential": false
+        },
+        {
+          "name": "Zomato Pro",
+          "amount": 1500,
+          "category": "Dining",
+          "essential": false
+        },
+        {
+          "name": "Gym Membership",
+          "amount": 2500,
+          "category": "Health",
+          "essential": false
+        },
+        {
+          "name": "Credit Card Minimum Due",
+          "amount": 5000,
+          "category": "Debt",
+          "essential": true
+        }
+      ]
+    },
+    "holdings": [
+      {
+        "name": "Axis Focused 25",
+        "type": "mutual_fund",
+        "value": 3500000,
+        "returns": 11.2
+      },
+      {
+        "name": "Kotak Corporate Bond",
+        "type": "bond",
+        "value": 4000000,
+        "returns": 7.5
+      },
+      {
+        "name": "Gold ETF",
+        "type": "gold",
+        "value": 1000000,
+        "returns": 8.0
+      },
+      {
+        "name": "IDBI Flexi Cap SIP",
+        "type": "sip",
+        "value": 150000,
+        "returns": 12.5
+      }
+    ],
+    "goals": [
+      {
+        "goal_name": "Child Education",
+        "target_amount": 5000000,
+        "current_amount": 2000000,
+        "target_year": 2035,
+        "priority": "High"
+      },
+      {
+        "goal_name": "Car Upgrade",
+        "target_amount": 1500000,
+        "current_amount": 500000,
+        "target_year": 2027,
+        "priority": "Low"
+      }
+    ],
+    "spending_trend_6m": [
+      140000,
+      142000,
+      145000,
+      138000,
+      150000,
+      145000
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Amit Patel",
+    "city": "Ahmedabad",
+    "occupation": "Business Owner",
+    "risk_profile": "Conservative",
+    "credit_score": 810,
+    "portfolio_value": 25000000,
+    "monthly_income": 450000,
+    "monthly_expenses": {
+      "essentials": 80000,
+      "discretionary": 50000,
+      "emi": 0,
+      "detailed_bills": [
+        {
+          "name": "Electricity & Water",
+          "amount": 5000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Netflix Premium",
+          "amount": 800,
+          "category": "Subscription",
+          "essential": false
+        },
+        {
+          "name": "Zomato Pro",
+          "amount": 1500,
+          "category": "Dining",
+          "essential": false
+        },
+        {
+          "name": "Gym Membership",
+          "amount": 2500,
+          "category": "Health",
+          "essential": false
+        }
+      ]
+    },
+    "holdings": [
+      {
+        "name": "SBI Balanced Advantage",
+        "type": "mutual_fund",
+        "value": 5000000,
+        "returns": 9.5
+      },
+      {
+        "name": "HDFC Corporate Bond",
+        "type": "bond",
+        "value": 15000000,
+        "returns": 7.2
+      },
+      {
+        "name": "Sovereign Gold Bonds",
+        "type": "gold",
+        "value": 5000000,
+        "returns": 9.0
+      },
+      {
+        "name": "IDBI Flexi Cap SIP",
+        "type": "sip",
+        "value": 150000,
+        "returns": 12.5
+      }
+    ],
+    "goals": [
+      {
+        "goal_name": "  Corpus",
+        "target_amount": 50000000,
+        "current_amount": 20000000,
+        "target_year": 2040,
+        "priority": "High"
+      }
+    ],
+    "spending_trend_6m": [
+      125000,
+      130000,
+      128000,
+      135000,
+      130000,
+      130000
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Neha Gupta",
+    "city": "Bangalore",
+    "occupation": "Data Scientist",
+    "risk_profile": "Aggressive",
+    "credit_score": 690,
+    "portfolio_value": 1200000,
+    "monthly_income": 95000,
+    "monthly_expenses": {
+      "essentials": 35000,
+      "discretionary": 30000,
+      "emi": 15000,
+      "detailed_bills": [
+        {
+          "name": "Electricity & Water",
+          "amount": 5000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Netflix Premium",
+          "amount": 800,
+          "category": "Subscription",
+          "essential": false
+        },
+        {
+          "name": "Zomato Pro",
+          "amount": 1500,
+          "category": "Dining",
+          "essential": false
+        },
+        {
+          "name": "Gym Membership",
+          "amount": 2500,
+          "category": "Health",
+          "essential": false
+        },
+        {
+          "name": "Credit Card Minimum Due",
+          "amount": 5000,
+          "category": "Debt",
+          "essential": true
+        }
+      ]
+    },
+    "holdings": [
+      {
+        "name": "Parag Parikh Flexi Cap",
+        "type": "mutual_fund",
+        "value": 1000000,
+        "returns": -2.5
+      },
+      {
+        "name": "Nippon India Liquid",
+        "type": "bond",
+        "value": 200000,
+        "returns": 6.2
+      },
+      {
+        "name": "IDBI Flexi Cap SIP",
+        "type": "sip",
+        "value": 150000,
+        "returns": 12.5
+      },
+      {
+        "name": "Digital Gold 24K",
+        "type": "gold",
+        "value": 50000,
+        "returns": 8.0
+      }
+    ],
+    "goals": [
+      {
+        "goal_name": "Emergency Fund",
+        "target_amount": 500000,
+        "current_amount": 200000,
+        "target_year": 2026,
+        "priority": "High"
+      },
+      {
+        "goal_name": "Bike Purchase",
+        "target_amount": 200000,
+        "current_amount": 50000,
+        "target_year": 2026,
+        "priority": "Medium"
+      }
+    ],
+    "spending_trend_6m": [
+      82000,
+      79000,
+      85000,
+      80000,
+      81000,
+      80000
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Vikram Singh",
+    "city": "Pune",
+    "occupation": "Operations Manager",
+    "risk_profile": "Moderate",
+    "credit_score": 765,
+    "portfolio_value": 3200000,
+    "monthly_income": 120000,
+    "monthly_expenses": {
+      "essentials": 45000,
+      "discretionary": 20000,
+      "emi": 25000,
+      "detailed_bills": [
+        {
+          "name": "Electricity & Water",
+          "amount": 5000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Netflix Premium",
+          "amount": 800,
+          "category": "Subscription",
+          "essential": false
+        },
+        {
+          "name": "Zomato Pro",
+          "amount": 1500,
+          "category": "Dining",
+          "essential": false
+        },
+        {
+          "name": "Gym Membership",
+          "amount": 2500,
+          "category": "Health",
+          "essential": false
+        }
+      ]
+    },
+    "holdings": [
+      {
+        "name": "Mirae Asset Large Cap",
+        "type": "mutual_fund",
+        "value": 1800000,
+        "returns": 10.5
+      },
+      {
+        "name": "Aditya Birla Sun Life Frontline",
+        "type": "etf",
+        "value": 800000,
+        "returns": 9.2
+      },
+      {
+        "name": "Fixed Deposit",
+        "type": "bond",
+        "value": 600000,
+        "returns": 6.8
+      },
+      {
+        "name": "IDBI Flexi Cap SIP",
+        "type": "sip",
+        "value": 150000,
+        "returns": 12.5
+      },
+      {
+        "name": "Digital Gold 24K",
+        "type": "gold",
+        "value": 50000,
+        "returns": 8.0
+      }
+    ],
+    "goals": [
+      {
+        "goal_name": "House Renovation",
+        "target_amount": 1000000,
+        "current_amount": 400000,
+        "target_year": 2028,
+        "priority": "Medium"
+      }
+    ],
+    "spending_trend_6m": [
+      88000,
+      92000,
+      90000,
+      89000,
+      95000,
+      90000
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Ananya Reddy",
+    "city": "Hyderabad",
+    "occupation": "Architect",
+    "risk_profile": "Aggressive",
+    "credit_score": 790,
+    "portfolio_value": 6500000,
+    "monthly_income": 180000,
+    "monthly_expenses": {
+      "essentials": 50000,
+      "discretionary": 35000,
+      "emi": 20000,
+      "detailed_bills": [
+        {
+          "name": "Electricity & Water",
+          "amount": 5000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Netflix Premium",
+          "amount": 800,
+          "category": "Subscription",
+          "essential": false
+        },
+        {
+          "name": "Zomato Pro",
+          "amount": 1500,
+          "category": "Dining",
+          "essential": false
+        },
+        {
+          "name": "Gym Membership",
+          "amount": 2500,
+          "category": "Health",
+          "essential": false
+        }
+      ]
+    },
+    "holdings": [
+      {
+        "name": "Quant Small Cap",
+        "type": "mutual_fund",
+        "value": 3000000,
+        "returns": 28.4
+      },
+      {
+        "name": "Nippon India Small Cap",
+        "type": "etf",
+        "value": 2000000,
+        "returns": 24.1
+      },
+      {
+        "name": "PPF",
+        "type": "bond",
+        "value": 1500000,
+        "returns": 7.1
+      },
+      {
+        "name": "IDBI Flexi Cap SIP",
+        "type": "sip",
+        "value": 150000,
+        "returns": 12.5
+      },
+      {
+        "name": "Digital Gold 24K",
+        "type": "gold",
+        "value": 50000,
+        "returns": 8.0
+      }
+    ],
+    "goals": [
+      {
+        "goal_name": "Start Design Firm",
+        "target_amount": 5000000,
+        "current_amount": 2500000,
+        "target_year": 2029,
+        "priority": "High"
+      }
+    ],
+    "spending_trend_6m": [
+      105000,
+      102000,
+      110000,
+      108000,
+      105000,
+      105000
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Rohan Das",
+    "city": "Kolkata",
+    "occupation": "Professor",
+    "risk_profile": "Conservative",
+    "credit_score": 825,
+    "portfolio_value": 12000000,
+    "monthly_income": 140000,
+    "monthly_expenses": {
+      "essentials": 45000,
+      "discretionary": 15000,
+      "emi": 0,
+      "detailed_bills": [
+        {
+          "name": "Electricity & Water",
+          "amount": 5000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Netflix Premium",
+          "amount": 800,
+          "category": "Subscription",
+          "essential": false
+        },
+        {
+          "name": "Zomato Pro",
+          "amount": 1500,
+          "category": "Dining",
+          "essential": false
+        },
+        {
+          "name": "Gym Membership",
+          "amount": 2500,
+          "category": "Health",
+          "essential": false
+        }
+      ]
+    },
+    "holdings": [
+      {
+        "name": "Senior Citizen Savings",
+        "type": "bond",
+        "value": 4000000,
+        "returns": 8.2
+      },
+      {
+        "name": "Post Office MIS",
+        "type": "bond",
+        "value": 3000000,
+        "returns": 7.4
+      },
+      {
+        "name": "UTI Mastershare",
+        "type": "mutual_fund",
+        "value": 5000000,
+        "returns": 11.5
+      },
+      {
+        "name": "IDBI Flexi Cap SIP",
+        "type": "sip",
+        "value": 150000,
+        "returns": 12.5
+      },
+      {
+        "name": "Digital Gold 24K",
+        "type": "gold",
+        "value": 50000,
+        "returns": 8.0
+      }
+    ],
+    "goals": [
+      {
+        "goal_name": "Daughter's Wedding",
+        "target_amount": 3000000,
+        "current_amount": 2800000,
+        "target_year": 2026,
+        "priority": "High"
+      }
+    ],
+    "spending_trend_6m": [
+      58000,
+      62000,
+      60000,
+      59000,
+      61000,
+      60000
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Arjun Menon",
+    "city": "Chennai",
+    "occupation": "Freelance Consultant",
+    "risk_profile": "Moderate",
+    "credit_score": 710,
+    "portfolio_value": 2800000,
+    "monthly_income": 110000,
+    "monthly_expenses": {
+      "essentials": 40000,
+      "discretionary": 25000,
+      "emi": 10000,
+      "detailed_bills": [
+        {
+          "name": "Electricity & Water",
+          "amount": 5000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Netflix Premium",
+          "amount": 800,
+          "category": "Subscription",
+          "essential": false
+        },
+        {
+          "name": "Zomato Pro",
+          "amount": 1500,
+          "category": "Dining",
+          "essential": false
+        },
+        {
+          "name": "Gym Membership",
+          "amount": 2500,
+          "category": "Health",
+          "essential": false
+        },
+        {
+          "name": "Credit Card Minimum Due",
+          "amount": 5000,
+          "category": "Debt",
+          "essential": true
+        }
+      ]
+    },
+    "holdings": [
+      {
+        "name": "Navi Nifty 50 Index",
+        "type": "mutual_fund",
+        "value": 1500000,
+        "returns": 13.8
+      },
+      {
+        "name": "ICICI Prudential Savings",
+        "type": "bond",
+        "value": 800000,
+        "returns": 6.8
+      },
+      {
+        "name": "Silver ETF",
+        "type": "gold",
+        "value": 500000,
+        "returns": 12.0
+      },
+      {
+        "name": "IDBI Flexi Cap SIP",
+        "type": "sip",
+        "value": 150000,
+        "returns": 12.5
+      }
+    ],
+    "goals": [
+      {
+        "goal_name": "Studio Setup",
+        "target_amount": 800000,
+        "current_amount": 300000,
+        "target_year": 2027,
+        "priority": "High"
+      }
+    ],
+    "spending_trend_6m": [
+      72000,
+      78000,
+      75000,
+      80000,
+      73000,
+      75000
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Aarav Desai",
+    "city": "Bengaluru",
+    "occupation": "Product Manager",
+    "risk_profile": "Aggressive",
+    "credit_score": 795,
+    "portfolio_value": 1500000,
+    "monthly_income": 180000,
+    "monthly_expenses": {
+      "essentials": 60000,
+      "discretionary": 30000,
+      "emi": 15000,
+      "detailed_bills": [
+        {
+          "name": "Electricity & Water",
+          "amount": 5000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Netflix Premium",
+          "amount": 800,
+          "category": "Subscription",
+          "essential": false
+        },
+        {
+          "name": "Zomato Pro",
+          "amount": 1500,
+          "category": "Dining",
+          "essential": false
+        },
+        {
+          "name": "Gym Membership",
+          "amount": 2500,
+          "category": "Health",
+          "essential": false
+        }
+      ]
+    },
+    "holdings": [
+      {
+        "name": "IDBI Flexi Cap Fund",
+        "type": "mutual_fund",
+        "value": 1000000,
+        "returns": 14.5
+      },
+      {
+        "name": "IDBI Liquid Fund",
+        "type": "bond",
+        "value": 500000,
+        "returns": 6.8
+      },
+      {
+        "name": "IDBI Flexi Cap SIP",
+        "type": "sip",
+        "value": 150000,
+        "returns": 12.5
+      },
+      {
+        "name": "Digital Gold 24K",
+        "type": "gold",
+        "value": 50000,
+        "returns": 8.0
+      }
+    ],
+    "goals": [
+      {
+        "goal_name": "Buy a House",
+        "target_amount": 4000000,
+        "current_amount": 1000000,
+        "target_year": 2029,
+        "priority": "High"
+      }
+    ],
+    "spending_trend_6m": [
+      105000,
+      102000,
+      108000,
+      105000,
+      104000,
+      105000
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Kabir Sharma",
+    "city": "Noida",
+    "occupation": "Recent Graduate",
+    "risk_profile": "Aggressive",
+    "credit_score": 680,
+    "portfolio_value": 0,
+    "monthly_income": 40000,
+    "monthly_expenses": {
+      "essentials": 20000,
+      "discretionary": 10000,
+      "emi": 5000,
+      "detailed_bills": [
+        {
+          "name": "Rent",
+          "amount": 15000,
+          "category": "Housing",
+          "essential": true
+        },
+        {
+          "name": "Electricity",
+          "amount": 2000,
+          "category": "Utility",
+          "essential": true
+        },
+        {
+          "name": "Spotify",
+          "amount": 120,
+          "category": "Subscription",
+          "essential": false
+        }
+      ]
+    },
+    "holdings": [],
+    "goals": [
+      {
+        "goal_name": "Build Emergency Fund",
+        "target_amount": 100000,
+        "current_amount": 0,
+        "target_year": 2027,
+        "priority": "High"
+      }
+    ],
+    "spending_trend_6m": [
+      34000,
+      35000,
+      33000,
+      36000,
+      35000,
+      35000
+    ]
+  }
+]
